@@ -13,7 +13,7 @@ E, então, usar o `prompt` sempre que se quiser ler dados de entrada.
 
 ---
 
-To read Beecrowd exercises inputs in JavaScript, you can define the prompt function as follows:
+To read exercises from Beecrowd platform inputs in JavaScript, you can define the `prompt` function as follows:
 
 ```javascript
 const fs = require('fs')
