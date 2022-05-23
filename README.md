@@ -1,6 +1,6 @@
 # beecrowd
 
-Para ler as entradas dos exercícios da plataforma [Beecrowd](https://www.beecrowd.com.br/) em JavaScript, pode-se definir a função `prompt` dessa forma:
+Para ler as entradas dos exercícios da plataforma [beecrowd](https://www.beecrowd.com.br/) em JavaScript, pode-se definir a função `prompt` dessa forma:
 
 ```javascript
 const fs = require('fs');
