@@ -1,6 +1,4 @@
 # beecrowd
----
-
 
 Para ler as entradas dos exercícios da plataforma Beecrowd em JavaScript, pode-se definir a função `prompt` dessa forma:
 
