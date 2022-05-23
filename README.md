@@ -9,7 +9,7 @@ const lines = input.split('\n');
 const prompt = () => lines.shift();
 ```
 
-E, então, usar o `prompt` sempre que se quiser ler dados de entrada.
+E, então, usar o `prompt` sempre que se quiser ler dados de entrada, como em um código normal.
 
 Por exemplo, para o exercício [BEE 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001), uma resposta seria:
 
