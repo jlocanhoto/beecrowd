@@ -1,6 +1,6 @@
 # beecrowd
 
-To read Beecrowd inputs in JavaScript, you can define the prompt function as follows:
+To read Beecrowd exercises inputs in JavaScript, you can define the prompt function as follows:
 
 ```javascript
 const fs = require('fs')
